@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m CHIEMERIE
+### 🏆 My Holopin Badges
+[![An image of @chiemeriechibuzor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiemeriechibuzor)](https://holopin.io/@chiemeriechibuzor)
 
 I’m an **Industry-Oriented Business Analyst** building in the **ServiceNow Ecosystem**.  
 My focus lies in **analyzing, optimizing, and automating business processes** to drive operational excellence across industries.
@@ -17,8 +19,7 @@ My focus lies in **analyzing, optimizing, and automating business processes** to
 ### 🌱  Fun Fact 
   I prefer listening to music from the 70s- 2000s, and I know so many of them ! 
 
-### 🏆 My Holopin Badges
-[![An image of @chiemeriechibuzor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiemeriechibuzor)](https://holopin.io/@chiemeriechibuzor)
+
 🌍 “Bridging business needs with digital transformation — one process at a time.”
 
 
