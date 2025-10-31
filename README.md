@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m CHIEMERIE
 ### 🏆 My Holopin Badges
 [![@chiemerie's Holopin board] (https://holopin.io/api/user/board?user=chiemeriechibuzor)]
-(https://holopin.io/@chiemeriechibuzor)
+(https://www.holopin.io/@chiemeriechibuzor#)
 
 I’m an **Industry-Oriented Business Analyst** building in the **ServiceNow Ecosystem**.  
 My focus lies in **analyzing, optimizing, and automating business processes** to drive operational excellence across industries.
